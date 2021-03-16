@@ -9,7 +9,7 @@ function HeroSection(props) {
     return (
         <div className="hero-container">
             <div className="hero-bg">
-                <video autoPlay loop muted >
+                <video autoPlay loop muted playsInline>
                     <source src={videobgg} type='video/mp4' />
                 </video>
             </div>
