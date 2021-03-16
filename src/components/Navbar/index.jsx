@@ -27,7 +27,7 @@ function Navbar({ toggle }) {
     return (
         <div className="nav-container" style={divStyleNaVContainer}>
             <div className="nav-logo" onClick={toggleHome}>
-                <p onClick={() => history.push("/")}>hoailv</p>
+                <p onClick={() => history.push("/portfolio")}>hoailv</p>
             </div>
             <div className="nav-menu">
                 <Link to="about" activeClass="active" smooth={true} duration={500} spy={true} exact='true' offset={-80}><p className="nav-menuitem" >About me</p></Link>

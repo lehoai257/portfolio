@@ -10,7 +10,7 @@ function Signin(props) {
     <div className="signin-container">
       <div className="signin-header">
         <div className="signin-logo">
-          <p onClick={()=>history.push("/")}>hoailv</p>
+          <p onClick={()=>history.push("/portfolio")}>hoailv</p>
         </div>
       </div>
       <div className="signin-logo-header">
