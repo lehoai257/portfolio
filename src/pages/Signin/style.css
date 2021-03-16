@@ -1,0 +1,52 @@
+.signin-container{
+
+}
+.signin-header{
+    display: flex;
+    align-items: center;
+    height: 80px;
+    margin-left: 20%;
+}
+.signin-logo p{
+    font-size: 30px;
+    font-weight: bold;
+    color:#01bf71;
+    cursor: pointer;
+}
+.signin-logo-header{
+    margin-top: 70px;
+    display: flex;
+    justify-content: center;
+}
+.sign-logo-border{
+    border-bottom: 2px whitesmoke solid;
+    width: 100% ;
+}
+.sign-img{
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    top:90px;
+    left: 45%;
+}
+.sign-img img{
+    width: 100px;
+    height: 100px;
+}
+.sign-p{
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center ;
+    margin-top: 60px;
+    font-weight: 500;
+    font-size: 35px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+@media screen and (max-width:600px) {
+    .sign-p{
+        font-size: 20px;
+    }
+}
