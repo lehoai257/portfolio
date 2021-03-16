@@ -24,7 +24,7 @@ function Signin(props) {
           Thanks for taking the time to reach out. How can I help you today?
         </p>
       </div>
-      <form class="row g-3 d-flex justify-content-center w-50 ml-auto mr-auto">
+      <form class="row g-3 d-flex justify-content-center w-75  ml-auto mr-auto">
   <div class="col-md-6">
     <label for="inputEmail4" class="form-label">Name</label>
     <input type="email" class="form-control" id="inputEmail4"/>

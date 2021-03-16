@@ -39,7 +39,7 @@ a {
 .nav-menuitem:hover {
     color: #01bf71;;
 }
-.active {
+.active :not(button){
     color: #01bf71;
     border-bottom: solid 2px #01bf71;
 }

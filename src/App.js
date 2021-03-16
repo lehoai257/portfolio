@@ -29,7 +29,8 @@ function App() {
       alt: "Car",
       dark: true,
       primary: true,
-      darkText: true
+      darkText: true,
+      learnMore:true
     },
     {
       id: "discover",
@@ -45,7 +46,8 @@ function App() {
       alt: "Piggy",
       dark: false,
       primary: false,
-      darkText: false
+      darkText: false,
+      learnMore:false
     },
     {
       id: "signup",
@@ -61,7 +63,8 @@ function App() {
       alt: "Paper",
       dark: true,
       primary: true,
-      darkText: true
+      darkText: true,
+      learnMore:false
     }
   ]
   return (

@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 import { useMediaQuery } from 'react-responsive';
 import { useHistory } from 'react-router';
 import "./style.css";
+import { Link,animateScroll as scroll } from "react-scroll"
 
 function InfoSection({ infoSectionData }) {
     const [hover, setHover] = useState(false);
@@ -42,7 +43,7 @@ const history = useHistory()
                                 <h1 className="info-heading" style={divStyleHeading}>{item.headLine}</h1>
                                 <p className="info-subtitle" style={divStyleSubtitle}>{item.desscription}</p>
                                 <div className="info-btn-wrapper">
-                                    <button className="info-btn" onClick={()=>history.push("/signin")} style={(!hover) ? divStyleButton : divStyleHover} onMouseEnter={handleHoverBtn} onMouseLeave={handleHoverBtn}>{item.buttonLabel}</button>
+                                    <Link to="discover"smooth={true} duration={500} spy={true} exact='true' offset={-80}><button className="info-btn" onClick={()=>(item.learnMore)?"":history.push("/signin")} style={(!hover) ? divStyleButton : divStyleHover} onMouseEnter={handleHoverBtn} onMouseLeave={handleHoverBtn}>{item.buttonLabel}</button></Link>
                                 </div>
                             </div>
                         </div>
