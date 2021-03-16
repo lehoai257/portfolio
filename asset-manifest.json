@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.03a66a7f.chunk.css",
+    "main.js": "/portfolio/static/js/main.f1607bed.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.f1607bed.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.f3e1a05f.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.f3e1a05f.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/portfolio/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.e0b30ba7.chunk.js": "/portfolio/static/js/2.e0b30ba7.chunk.js",
+    "static/js/2.e0b30ba7.chunk.js.map": "/portfolio/static/js/2.e0b30ba7.chunk.js.map",
+    "static/js/3.988589f6.chunk.js": "/portfolio/static/js/3.988589f6.chunk.js",
+    "static/js/3.988589f6.chunk.js.map": "/portfolio/static/js/3.988589f6.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/portfolio/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.03a66a7f.chunk.css.map": "/portfolio/static/css/main.03a66a7f.chunk.css.map",
+    "static/js/2.e0b30ba7.chunk.js.LICENSE.txt": "/portfolio/static/js/2.e0b30ba7.chunk.js.LICENSE.txt",
+    "static/media/154645667_4095634310488041_5413891824575376585_n.jpeg": "/portfolio/static/media/154645667_4095634310488041_5413891824575376585_n.287eee34.jpeg",
+    "static/media/bg.d48e2181.mp4": "/portfolio/static/media/bg.d48e2181.mp4",
+    "static/media/mf-avatar.7b735e86.svg": "/portfolio/static/media/mf-avatar.7b735e86.svg",
+    "static/media/undraw_Mobile_application_mr4r.187ebb7e.svg": "/portfolio/static/media/undraw_Mobile_application_mr4r.187ebb7e.svg",
+    "static/media/undraw_Operating_system_re_iqsc.svg": "/portfolio/static/media/undraw_Operating_system_re_iqsc.f22a427d.svg",
+    "static/media/undraw_programming_2svr.a4ef9b2c.svg": "/portfolio/static/media/undraw_programming_2svr.a4ef9b2c.svg",
+    "static/media/undraw_react_y7wq.78caaaf4.svg": "/portfolio/static/media/undraw_react_y7wq.78caaaf4.svg",
+    "static/media/undraw_web_developer_p3e5.svg": "/portfolio/static/media/undraw_web_developer_p3e5.ba6ea93c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f3e1a05f.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.e0b30ba7.chunk.js",
+    "static/css/main.03a66a7f.chunk.css",
+    "static/js/main.f1607bed.chunk.js"
+  ]
+}
