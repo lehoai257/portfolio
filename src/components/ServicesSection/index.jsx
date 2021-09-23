@@ -12,12 +12,12 @@ function ServicesSection(props) {
             <div className="services-wrapper">
                 <div className="services-card">
                     <img src={image1} alt="services" className="services-icon" />
-                    <h2 className="services-h2">Designer</h2>
-                    <p className="services-p">I value simple content structure, clean design patterns, and thoughtful interactions.</p>
+                    <h2 className="services-h2">System Engineer</h2>
+                    <p className="services-p">I have experience in managing web applications and application servers</p>
                 </div>
                 <div className="services-card">
                     <img src={image2} alt="services" className="services-icon" />
-                    <h2 className="services-h2">Front-end, Back-end Developer</h2>
+                    <h2 className="services-h2">Front-endDeveloper</h2>
                     <p className="services-p">I like to code things from scratch, and enjoy bringing ideas to life in the browser.</p>
                 </div>
                 <div className="services-card">
