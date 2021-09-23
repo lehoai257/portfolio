@@ -22,7 +22,7 @@ function App() {
       lightDesc: false,
       topLine: "ABOUT ME",
       headLine: "Hi, I’m Hoai. Nice to meet you",
-      desscription: "Since beginning my journey as a freelance developer nearly 5 years ago, I has been and working for FPT Software, and collaborated with talented people to create digital products for both business and consumer use. I'm quietly confident, naturally curious, and perpetually working on improving my chops one develop problem at a time.",
+      desscription: "Since beginning my journey as a System Engineer nearly 5 years ago, I has been and working for FPT Software, and collaborated with talented people to create digital products for both business and consumer use. I'm quietly confident, naturally curious, and perpetually working on improving my chops one develop problem at a time.",
       buttonLabel: "Learn More",
       imgStart: true,
       img: require('./images/154645667_4095634310488041_5413891824575376585_n.jpeg'),
