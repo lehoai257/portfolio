@@ -14,7 +14,7 @@ function HeroSection(props) {
                 </video>
             </div>
             <div className="hero-contents">
-                <h1>System Engineer, Full-stack Developer & Mentor</h1>
+                <h1>DevOps Engineer, Frontend Developer & Mentor</h1>
                 <p>I design and code beautifully simple things, and I love what I do.</p>
                 <div className="hero-getstarted">
               
